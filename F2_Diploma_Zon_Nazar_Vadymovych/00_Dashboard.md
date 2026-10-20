@@ -55,6 +55,7 @@ gantt
 ## 📚 Репозиторій артефактів & Посилання
 
 - [[04_Scientific_Apparatus|Науковий апарат проєкту]]
+- [[05_Analog_Engineering|Інженерний опис аналогів]]
 - [[01_Thesis_Proposal|📄 Переглянути Thesis Proposal]]
 - [[02_AI_Insights|🤖 Протокол AI Disclosure (AI Insights)]]
 - [[03_Supervisor_Feedback|💬 Фідбек наукового керівника]]
